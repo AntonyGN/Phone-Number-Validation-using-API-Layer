@@ -23,3 +23,6 @@ pip install json
 4. Run the notebook cells in order. The output will indicate whether the phone number is valid or not, and if available, the carrier information.
 
 Note that the code includes error handling and response parsing logic, so you should see helpful error messages if something goes wrong with the API request.
+
+## License
+This code is licensed under the MIT License. 
